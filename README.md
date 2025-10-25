@@ -11,7 +11,7 @@ This project implements an end-to-end machine learning pipeline for traffic sign
 - NumPy & Pandas: Data manipulation
 - Matplotlib & Seaborn: Data visualization
 - Streamlit: Web application framework
-- Scikit-learn: Metrics and data splitting
+- Scikit-learn: Metrics and data splitting    
 
 ***VISUALIZING DATA DISTRIBUTION***   
 <img width="1989" height="490" alt="1" src="https://github.com/user-attachments/assets/32c19b62-4217-4fb9-92d0-7706d82d8c5c" />
