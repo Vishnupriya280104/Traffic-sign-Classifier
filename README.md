@@ -1,5 +1,6 @@
-### Traffic Sign Recognition System
-A deep learning-based traffic sign classification system using Convolutional Neural Networks (CNN) to identify 43 different types of German traffic signs with 99.91% accuracy.   
+### Traffic Sign Recognition System ###
+A deep learning-based traffic sign classification system using Convolutional Neural Networks (CNN) to identify 43 different types of German traffic signs with 99.91% accuracy.    
+
 **Project Overview**   
 This project implements an end-to-end machine learning pipeline for traffic sign recognition using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The system can classify 43 different traffic sign categories in real-time through an interactive web application.   
 
@@ -40,6 +41,7 @@ The system recognizes 43 different traffic sign types:
 - Priority signs (stop, yield, main road)
 - Warning signs (children, pedestrians, roadwork, etc.)
 - Mandatory directions (straight, left, right, roundabout)
+
 
 **Acknowledgments**   
 
