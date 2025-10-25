@@ -48,8 +48,10 @@ Built an interactive web interface using **Streamlit** that allows users to uplo
 **Key Files:** `app.py` (main Streamlit app), `models/traffic_sign_classifier_final.keras` (trained model), `requirements.txt` (dependencies)   
 
 
-**Acknowledgments**   
 
+
+
+**Acknowledgments**   
 German Traffic Sign Recognition Benchmark (GTSRB) dataset creators   
 TensorFlow and Keras teams   
 Streamlit for the amazing web framework   
