@@ -42,6 +42,11 @@ The system recognizes 43 different traffic sign types:
 - Warning signs (children, pedestrians, roadwork, etc.)
 - Mandatory directions (straight, left, right, roundabout)
 
+**Web Application**  
+Built an interactive web interface using **Streamlit** that allows users to upload traffic sign images and receive instant predictions. The app uses `@st.cache_resource` to load the trained Keras model once for optimal performance, `st.file_uploader` for image input, and displays results with confidence scores using `st.metric` and `st.progress`. Features include image preprocessing with OpenCV/PIL, top-5 prediction visualization, and a responsive sidebar with model information. Deployable to Streamlit Cloud with a single command for free hosting.  
+
+**Key Files:** `app.py` (main Streamlit app), `models/traffic_sign_classifier_final.keras` (trained model), `requirements.txt` (dependencies)   
+
 
 **Acknowledgments**   
 
